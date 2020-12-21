@@ -1,0 +1,96 @@
+{
+  "kind": "youtube#channel",
+  "etag": "\"q5k97EMVGxODeKcDgp8gnMu79wM/aQk3vGDdJWboJdhl8AyVsTY4go4\"",
+  "id": "UCwljrkoI5jsfvAKgW3zNC7Q",
+  "snippet": {
+    "title": "SHOPEE Indonesia",
+    "description": "",
+    "publishedAt": "2015-01-21T09:12:12.000Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/-QS2C_F2g39A/AAAAAAAAAAI/AAAAAAAAAAA/oJqrX_eFN9c/s88-c-k-no/photo.jpg"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/-QS2C_F2g39A/AAAAAAAAAAI/AAAAAAAAAAA/oJqrX_eFN9c/s240-c-k-no/photo.jpg"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/-QS2C_F2g39A/AAAAAAAAAAI/AAAAAAAAAAA/oJqrX_eFN9c/s240-c-k-no/photo.jpg"
+      }
+    },
+    "localized": {
+      "title": "SHOPEE Indonesia",
+      "description": ""
+    }
+  },
+  "contentDetails": {
+    "relatedPlaylists": {
+      "uploads": "UUwljrkoI5jsfvAKgW3zNC7Q"
+    },
+    "googlePlusUserId": "106350124341157794187"
+  },
+  "statistics": {
+    "viewCount": "235281",
+    "commentCount": "0",
+    "subscriberCount": "31",
+    "hiddenSubscriberCount": false,
+    "videoCount": "18"
+  },
+  "topicDetails": {
+    "topicIds": [
+      "/m/050k8",
+      "/m/030swj",
+      "/m/019z7b",
+      "/m/07c1v"
+    ]
+  },
+  "status": {
+    "privacyStatus": "public",
+    "isLinked": true,
+    "longUploadsStatus": "longUploadsUnspecified"
+  },
+  "brandingSettings": {
+    "channel": {
+      "title": "SHOPEE Indonesia",
+      "defaultTab": "Featured",
+      "showRelatedChannels": true,
+      "showBrowseView": true,
+      "unsubscribedTrailer": "lY1pzWgvBWA",
+      "profileColor": "#000000"
+    },
+    "image": {
+      "bannerImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w1060-fcrop64=1,00005a57ffffa5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerMobileImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w640-fcrop64=1,32b75a57cd48a5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTabletLowImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w1138-fcrop64=1,00005a57ffffa5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTabletImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w1707-fcrop64=1,00005a57ffffa5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTabletHdImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w2276-fcrop64=1,00005a57ffffa5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTabletExtraHdImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w2560-fcrop64=1,00005a57ffffa5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerMobileLowImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w320-fcrop64=1,32b75a57cd48a5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerMobileMediumHdImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w960-fcrop64=1,32b75a57cd48a5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerMobileHdImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w1280-fcrop64=1,32b75a57cd48a5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerMobileExtraHdImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w1440-fcrop64=1,32b75a57cd48a5a8-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTvImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w2120-fcrop64=1,00000000ffffffff-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTvLowImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w854-fcrop64=1,00000000ffffffff-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTvMediumImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w1280-fcrop64=1,00000000ffffffff-nd/Youtube-Pages-Cover-baru.jpg",
+      "bannerTvHighImageUrl": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w1920-fcrop64=1,00000000ffffffff-nd/Youtube-Pages-Cover-baru.jpg"
+    },
+    "hints": [
+      {
+        "property": "channel.banner.mobile.medium.image.url",
+        "value": "https://yt3.ggpht.com/-vGPzoRLBWCs/VgK8HbHLdLI/AAAAAAAAAMI/41crf5nwpzk/w640-fcrop64=1,32b75a57cd48a5a8-nd/Youtube-Pages-Cover-baru.jpg"
+      },
+      {
+        "property": "channel.modules.show_comments.bool",
+        "value": "True"
+      },
+      {
+        "property": "channel.featured_tab.template.string",
+        "value": "Everything"
+      }
+    ]
+  },
+  "object": {
+    "socialMedia": "youtube",
+    "streamType": "account",
+    "content": "Arief Yahya"
+  }
+}

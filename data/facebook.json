@@ -1,0 +1,44 @@
+{
+  "id": "744496288965171",
+  "about": "Official Account of Honda Customer Care Center | PT Astra Honda Motor | Follow us on Twitter \u0040AstraHondaCare | Mon - Sun 8AM - 12AM",
+  "category": "Automotive",
+  "category_list": [
+    {
+      "id": "180410821995109",
+      "name": "Automotive"
+    }
+  ],
+  "checkins": 222,
+  "likes": 94551,
+  "cover": {
+    "cover_id": "978070785607719",
+    "offset_x": 0,
+    "offset_y": 0,
+    "source": "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-0/p280x280/601162_978070785607719_6514080772094055563_n.jpg?_nc_eui=ARiN9XrQSkgjIYh71Xjn0fw2FmQ6mp_pXu9WShKYHDfAvT-LezqVgQ&oh=a6755b015d9b6e48fdc71bf3c7d2416d&oe=5777348B",
+    "id": "978070785607719"
+  },
+  "has_added_app": false,
+  "is_community_page": false,
+  "is_published": true,
+  "new_like_count": 0,
+  "link": "https://www.facebook.com/AstraHondaCare/",
+  "location": {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "latitude": -6.2173,
+    "longitude": 106.839
+  },
+  "name": "Astra Honda Care",
+  "name_with_location_descriptor": "Astra Honda Care",
+  "phone": "1500989",
+  "talking_about_count": 3051,
+  "username": "AstraHondaCare",
+  "website": "http://www.Astra-Honda.com",
+  "were_here_count": 222,
+  "timestamp": 1456185600,
+  "object": {
+    "socialMedia": "facebook",
+    "streamType": "account",
+    "content": "Arief Yahya"
+  }
+}
